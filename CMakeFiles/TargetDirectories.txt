@@ -1,0 +1,3 @@
+C:/Users/Piotrek/Desktop/SNAKEDELUXE/cmake-build-debug/CMakeFiles/SNAKEDELUXE.dir
+C:/Users/Piotrek/Desktop/SNAKEDELUXE/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Piotrek/Desktop/SNAKEDELUXE/cmake-build-debug/CMakeFiles/rebuild_cache.dir
